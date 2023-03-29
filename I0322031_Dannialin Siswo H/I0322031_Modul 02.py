@@ -1,10 +1,10 @@
 #input
 nama = input("masukkan nama: ")
-print("halo, "+ nama,"kun :)" )
+print("halo, "+ nama,)
 
 #challenge 1
 id = int(input("masukkan id= "))
-print ("id= " + str(id),)
+print ("id= " + str(id))
 
 nama = "Dani"
 tahun = "2004"
@@ -26,7 +26,7 @@ while user != x:
         print("Too high")
     elif user < x:
         print("Too low")
-    else:
+    elif user == x :
         print("Number correct")
     user = int(input("Enter a number: "))
 
@@ -34,7 +34,7 @@ while user != x:
 x = 10
 y = 3
 
-command = 5(input("Masukkan command: "))
+command =int(input("Masukkan command: "))
 if command == 1:
     print(f"{x} pangkat {3} = {x ** y}") # output seharusnya 1000
 else:
