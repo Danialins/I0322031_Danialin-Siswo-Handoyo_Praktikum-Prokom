@@ -1,0 +1,11 @@
+Nama: lol
+Umur: 22
+Alamat: dbbd
+
+Nama: yu
+Umur: 19
+Alamat: fgh
+
+Nama: udin
+Umur: 1000
+Alamat: gg geming

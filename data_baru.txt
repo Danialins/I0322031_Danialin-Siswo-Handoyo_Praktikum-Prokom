@@ -1,0 +1,3 @@
+Ini adalah isi dari file baru.
+Ini adalah baris kedua.
+Ini adalah baris ketiga.
